@@ -1,2 +1,6 @@
 # Electric-Power-Consumption-Segmentation
-clustering, customer segmentation
+<p align="center">
+    <br>
+    <img src="https://github.com/giumanto/Electric-Power-Consumption-Segmentation/blob/main/Instructions.jpg" width="600"/>
+    <br>
+<p>
